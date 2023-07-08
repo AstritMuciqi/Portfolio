@@ -1051,12 +1051,12 @@ div.p-ex{
 #light {
   display: none;
   position: absolute;
-  top: 815%;
+  /* top: 815%; */
   left: 50%;
   max-width: 600px;
   max-height: 360px;
   margin-left: -300px;
-  margin-top: -180px;
+  /* margin-top: -180px; */
   border: 2px solid #FFF;
   background: #FFF;
   z-index: 1002;
@@ -1093,9 +1093,9 @@ div.p-ex{
   .hero-title{
     font-size: 40px;
   }
-  #light{
+  /* #light{
     top: 495%;
-  }
+  } */
 }
 
 @media screen and (max-width: 991px) {
@@ -1338,7 +1338,7 @@ div.p-ex{
     margin-left: 0;
     position: fixed;
     top: 50%;
-    left: 50%;
+    /* left: 50%; */
     /* bring your own prefixes */
     transform: translate(-50%, -50%);
 
