@@ -663,6 +663,10 @@ div.year_span{
   height:45%;
 }
 
+.year_span .h4-1{
+  margin-top: -240%;
+}
+
 div.p-ex{
   padding-left: 4%;
   display: flex;
