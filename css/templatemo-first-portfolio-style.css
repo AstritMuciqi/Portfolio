@@ -594,7 +594,8 @@ strong {
 }
 
 img.about-image.img-fluid.imgOWL{
-  height: 400px;
+  height: 420px;
+  object-fit: cover;
 }
 
 
